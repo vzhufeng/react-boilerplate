@@ -9,10 +9,6 @@
     "dev": "node ./webpack-config/dev.js",
     "build": "webpack --config ./webpack-config/dll.js && node ./webpack-config/prod.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "http://git.hljnbw.cn/dao_zhen/test-publish.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
